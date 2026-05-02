@@ -5,6 +5,7 @@ A high-performance, responsive landing page and administrative portal designed f
 Key Features & Impact
 
 •	Mobile-First Design: Fully responsive layouts ensuring accessibility across all devices.
+Engineered a mobile-first UI using Flexbox/Grid, ensuring a 100% consistent user experience across smartphones, tablets, and desktops.
 
 •	Optimized Performance: Leveraged semantic HTML and optimized assets to improve page load speed by 15%.
 
